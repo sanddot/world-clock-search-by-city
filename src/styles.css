@@ -56,3 +56,23 @@ footer {
   vertical-align: 6px;
   line-height: 40px;
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  .container {
+    padding: 15px;
+  }
+  .date {
+    font-size: 12px;
+  }
+  .time {
+    font-size: 28px;
+  }
+  .time small {
+    font-size: 20px;
+  }
+}
