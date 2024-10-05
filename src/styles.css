@@ -61,7 +61,7 @@ footer {
     font-size: 35px;
   }
   h2 {
-    font-size: 20px;
+    font-size: 18px;
   }
   .container {
     padding: 15px;
@@ -70,9 +70,9 @@ footer {
     font-size: 12px;
   }
   .time {
-    font-size: 28px;
+    font-size: 22px;
   }
   .time small {
-    font-size: 20px;
+    font-size: 12px;
   }
 }
